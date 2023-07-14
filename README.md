@@ -27,7 +27,7 @@ Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js
 - The admin panel includes promotional offers and vouchers to lower consumers' expenses.
 - Customers can sort dishes by new, best-selling, most popular, today's special, duration, and price.
 
-- 
+
 ![20230715_023314](https://github.com/shashankvish/freshfood/assets/139473679/ae78d59e-8f5d-4a7d-9506-2845ec9133e8)
 
  
