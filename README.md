@@ -48,9 +48,8 @@ To run the project, you'll need to set up the following environment variables:
 - 3> npm run dev
 
  For Server side : 
-- 1> cd client
-- 2> cd "Fresh Food"
-- 3> npm run dev
+- 1> cd server
+- 2> npm run dev
 
 5. Access the application in your browser.
 

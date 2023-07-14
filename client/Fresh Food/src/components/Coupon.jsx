@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import Unauth from './Unauth'
-import Footer from './Footer'
+
 
 const Coupon = () => {
 
@@ -98,7 +98,7 @@ const Coupon = () => {
              <span className='text-red-600 font-semibold text-sm'>{status.message}</span>
             
             <div className='flex flex-col justify-center items-center p-3'>
-                <form className='bg-red-600 md:h-[55vh] rounded h-max-fit w-[60vw] p-2 flex flex-col justify-center items-center gap-2' method="POST">
+                <form className='bg-red-600 md:w-max rounded h-max-fit w-[60vw] p-2 flex flex-col justify-center items-center gap-2' method="POST">
                     <span className='text-white font-semibold text-sm'>Coupon Code</span>
                     <input type="text"
                         className='uppercase focus-visible:outline-none text-black placeholder:text-gray rounded md:w-[24vw] w-max-fit h-[5vh] px-1 placeholder:capitalize'
@@ -140,7 +140,7 @@ const Coupon = () => {
                     <button onClick={sendCoupon} className='bg-white m-2 p-1 md:w-[24vw] w-[48vw] text-red-600 rounded font-semibold'>Create</button>
                 </form>
             </div>
-            <Footer/>
+       
         </div>
     )
     }

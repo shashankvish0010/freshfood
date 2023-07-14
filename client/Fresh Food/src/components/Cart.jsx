@@ -92,7 +92,7 @@ const Cart = () => {
         const discount = matchedCoupon.discount;
         const newDiscountedAmount = totalAmount - discount;
         setDiscountedAmount(newDiscountedAmount);
-        setStatus({success : true, message : "Coupon"})
+        setStatus({success : true, message : "Coupon Applied"})
         console.log(data.message);
         }
         // Move setButtonDisable here
