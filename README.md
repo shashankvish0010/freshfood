@@ -1,7 +1,9 @@
 
 # Fresh Food
+![20230715_022025](https://github.com/shashankvish/freshfood/assets/139473679/0469699a-1756-4df9-a887-52e6d3196c14)
 
 Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, along with React.js for the front end and Tailwind CSS for styling. It leverages modern technologies to create a seamless platform for customers, food partners, and the admin team.
+![20230715_022838](https://github.com/shashankvish/freshfood/assets/139473679/b66964ab-5590-4d6e-b316-4fb40455edc7)
 
 ## Features
 
@@ -17,6 +19,9 @@ Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js
 - Integration of a payment gateway using the Razorpay API to collect payments from customers.
 - The admin panel includes promotional offers and vouchers to lower consumers' expenses.
 - Customers can sort dishes by new, best-selling, most popular, today's special, duration, and price.
+![20230715_023314](https://github.com/shashankvish/freshfood/assets/139473679/ae78d59e-8f5d-4a7d-9506-2845ec9133e8)
+ 
+![20230715_023759](https://github.com/shashankvish/freshfood/assets/139473679/651a9905-fc51-4986-b69d-d2f8a63a7b1b)
 
 ## Technologies Used
 
@@ -25,6 +30,10 @@ Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js
 - Vite + React.js: Frontend library for building user interfaces
 - Node.js: JavaScript runtime environment for server-side development
 - Tailwind CSS: Utility-first CSS framework for styling
+  
+![20230715_024212](https://github.com/shashankvish/freshfood/assets/139473679/309c6fd5-766d-45b2-ba4c-c504dd826a09)
+
+![20230715_024523](https://github.com/shashankvish/freshfood/assets/139473679/b6761d2b-2c16-4c4d-a9e3-db6286d1bdef)
 
 ## Getting Started
 
@@ -56,6 +65,10 @@ To run the project, you'll need to set up the following environment variables:
 Front end of Fresh Food will run on - http://localhost:5173/
 
 Back end of Fresh Food will run on - http://localhost:8000/
+
+![20230715_025734](https://github.com/shashankvish/freshfood/assets/139473679/27f445d0-532e-41b9-b0ff-6ab87eeedb20)
+
+![20230715_025226](https://github.com/shashankvish/freshfood/assets/139473679/776fbff5-f99c-4cc9-bfd3-595325eaf03e)
 
 ## Usage
 
