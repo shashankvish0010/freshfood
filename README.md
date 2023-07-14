@@ -1,3 +1,4 @@
+
 # Fresh Food
 
 Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, along with React.js for the front end and Tailwind CSS for styling. It leverages modern technologies to create a seamless platform for customers, food partners, and the admin team.
@@ -95,3 +96,7 @@ Back end of Fresh Food will run on - http://localhost:8000/
 
 
 In summary, Fresh Food is a feature-rich project that leverages modern technologies to create a seamless platform for customers, food partners, and the admin team. It enables efficient management of food-related operations while providing valuable insights for business growth and optimization.
+
+# freshfood
+Fresh Food is a feature-rich project that leverages modern technologies to create a seamless platform for customers, food partners, and the admin team. It enables efficient management of food-related operations while providing valuable insights for business growth and optimization.
+
