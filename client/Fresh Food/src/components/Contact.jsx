@@ -39,10 +39,11 @@ const Contact = () => {
           <Icon icon="devicon:linkedin" height='4vh'/>
           <p className='text-gray-600 font-medium'>Linkedin</p>
           </div></a>
+          <a href="https://twitter.com/ShashankVis001">
           <div className='flex flex-row gap-2 p-1 h-max w-max'>
           <Icon icon="devicon:twitter" height='4vh'/>
           <p className='text-gray-600 font-medium'>Twitter</p>
-          </div>
+          </div></a>
         </div>
       </div>
      

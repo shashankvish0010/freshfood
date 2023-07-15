@@ -30,7 +30,7 @@ const Footer = () => {
         <div className='w-max h-max flex flex-row items-center gap-6'>
         <a href='https://github.com/shashankvish'><Icon className='shadow-xl cursor-pointer hover:shadow-2xl' height='4vh' icon="mdi:github" /></a>
         <a href='https://www.linkedin.com/in/shashank-vishwakarma-650555283/'><Icon className='shadow-xl cursor-pointer hover:shadow-2xl' height='4vh' icon="devicon:linkedin" /></a>
-        <a href='/'><Icon className='shadow-xl cursor-pointer hover:shadow-2xl' height='4vh' icon="devicon:twitter" /></a>
+        <a href='https://twitter.com/ShashankVis001'><Icon className='shadow-xl cursor-pointer hover:shadow-2xl' height='4vh' icon="devicon:twitter" /></a>
         </div>
         <div className='flex flex-wrap w-screen h-max items-center justify-center gap-1 mt-3'>
         <h1 className='md:text-base text-sm font-bold'><Link to='/'>Fresh Food</Link></h1>
