@@ -2,15 +2,13 @@
 # Fresh Food
 
 
-![20230715_022025](https://github.com/shashankvish/freshfood/assets/139473679/0469699a-1756-4df9-a887-52e6d3196c14)
-
-
+![20230715_022025](https://github.com/shashankvish0010/freshfood/assets/140178357/2d1d6611-79e2-475e-b7a0-53e8e1141ee7)
 
 Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack, along with React.js for the front end and Tailwind CSS for styling. It leverages modern technologies to create a seamless platform for customers, food partners, and the admin team.
 
 
-![20230715_022838](https://github.com/shashankvish/freshfood/assets/139473679/b66964ab-5590-4d6e-b316-4fb40455edc7)
 
+![20230715_022838](https://github.com/shashankvish0010/freshfood/assets/140178357/78988288-b02d-44bb-9aea-8cd7fe3eda7b)
 
 ## Features
 
@@ -28,13 +26,13 @@ Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js
 - Customers can sort dishes by new, best-selling, most popular, today's special, duration, and price.
 
 
-![20230715_023314](https://github.com/shashankvish/freshfood/assets/139473679/ae78d59e-8f5d-4a7d-9506-2845ec9133e8)
 
  
-![20230715_023759](https://github.com/shashankvish/freshfood/assets/139473679/651a9905-fc51-4986-b69d-d2f8a63a7b1b)
+![20230715_023314](https://github.com/shashankvish0010/freshfood/assets/140178357/e769f44c-216e-45d4-9f69-263421211045)
 
 
-## Technologies Used
+## Technologies Used![20230715_023759](https://github.com/shashankvish0010/freshfood/assets/140178357/f321a630-7716-4136-ad2a-4e4386aedd16)
+
 
 - MongoDB: Database for storing data
 - Express.js: Backend framework for handling server-side logic
@@ -43,14 +41,14 @@ Fresh Food is a full-stack project developed using the MERN (MongoDB, Express.js
 - Tailwind CSS: Utility-first CSS framework for styling
 
   
-![20230715_024212](https://github.com/shashankvish/freshfood/assets/139473679/309c6fd5-766d-45b2-ba4c-c504dd826a09)
+
+![20230715_024212](https://github.com/shashankvish0010/freshfood/assets/140178357/bcf33122-fd15-4a04-9a8c-d7043e06bcad)
 
 
-![20230715_024523](https://github.com/shashankvish/freshfood/assets/139473679/b6761d2b-2c16-4c4d-a9e3-db6286d1bdef)
 
+![20230715_024523](https://github.com/shashankvish0010/freshfood/assets/140178357/59d85be0-2593-44e0-a002-af2b68291156)
 
 ## Getting Started
-
 1. Clone the repository.
 2. Install the necessary dependencies using "npm install"
 3. Set up environment variables, such as MongoDB connection URL and API keys.
@@ -81,12 +79,12 @@ Front end of Fresh Food will run on - http://localhost:5173/
 Back end of Fresh Food will run on - http://localhost:8000/
 
 
-![20230715_025734](https://github.com/shashankvish/freshfood/assets/139473679/27f445d0-532e-41b9-b0ff-6ab87eeedb20)
+
+![20230715_025734](https://github.com/shashankvish0010/freshfood/assets/140178357/1744b4f8-4333-43ab-91a1-89bdadc5775b)
 
 
-![20230715_025226](https://github.com/shashankvish/freshfood/assets/139473679/776fbff5-f99c-4cc9-bfd3-595325eaf03e)
 
-
+![20230715_025226](https://github.com/shashankvish0010/freshfood/assets/140178357/d0101a0d-87a7-497a-974f-d55351614a58)
 ## Usage
 
 ## Instructions for Customers:
