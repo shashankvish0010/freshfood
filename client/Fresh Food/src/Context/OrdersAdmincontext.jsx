@@ -16,7 +16,7 @@ const OrdersAdmincontext = (props) => {
 
   const totalorder = async () => {
     try {
-      const response = await fetch('/totalorders', {
+      const response = await fetch('https://freshfood-backend.onrender.com/totalorders', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',

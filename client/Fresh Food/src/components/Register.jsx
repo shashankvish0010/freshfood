@@ -26,7 +26,7 @@ const Register = () => {
     const { firstname, lastname, email, contact, password, conpass, address } = user;
 
     try {
-      const response = await fetch('/register', {
+      const response = await fetch('https://freshfood-backend.onrender.com/register', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

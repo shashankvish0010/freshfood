@@ -15,7 +15,7 @@ const Partneradmin = () => {
 
   const getData = async () =>{
         try {
-          const response = await fetch('/partneradmin', {
+          const response = await fetch('https://freshfood-backend.onrender.com/partneradmin', {
             method : "GET",
             headers : {
               "Accept" : "application/json",

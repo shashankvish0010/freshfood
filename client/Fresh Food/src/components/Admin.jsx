@@ -13,7 +13,7 @@ import Footer from './Footer'
          
       try {
        
-        const response = await fetch('/admin-panel', {
+        const response = await fetch('https://freshfood-backend.onrender.com/admin-panel', {
           method : 'GET',
           headers: {
             'Accept' : 'appliaction/json',

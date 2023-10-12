@@ -44,7 +44,7 @@ const Adddish = () => {
         e.preventDefault();
         const { dishname, description, price, image, category, cuisine, tag, duration } = dish;
         try {
-            const response = await fetch('/add-dish', {
+            const response = await fetch('https://freshfood-backend.onrender.com/add-dish', {
                 method: 'PUT',
                 headers: {
                     "Content-Type": "application/json",

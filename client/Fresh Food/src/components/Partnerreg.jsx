@@ -44,7 +44,7 @@ const Partnerreg = () => {
 
         try {
 
-            const response = await fetch('/addpartner', {
+            const response = await fetch('https://freshfood-backend.onrender.com/addpartner', {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"

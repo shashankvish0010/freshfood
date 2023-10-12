@@ -12,7 +12,7 @@ const OrderMangecontext = (props) => {
 
     const fetchOrders = async () => {
         try {
-            const response = await fetch('/fetchorder', {
+            const response = await fetch('https://freshfood-backend.onrender.com/fetchorder', {
                 method: 'GET',
                 headers: {
                     'Content-Type': 'application/json'
@@ -35,7 +35,7 @@ const OrderMangecontext = (props) => {
 
     const updatestate = async (id) => {
         try {
-            const response = await fetch('/dispatchorder', {
+            const response = await fetch('https://freshfood-backend.onrender.com/dispatchorder', {
                 method: 'PUT',
                 headers: {
                     'Content-Type': 'application/json'

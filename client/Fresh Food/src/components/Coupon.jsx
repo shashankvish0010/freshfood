@@ -16,7 +16,7 @@ const Coupon = () => {
     const auth = async () =>{
         try {
 
-            const response = await fetch ('/admin-panel', {
+            const response = await fetch ('https://freshfood-backend.onrender.com/admin-panel', {
                 method : "GET",
                 headers : {
                     "Accept" : "appliaction/json",
@@ -59,7 +59,7 @@ const Coupon = () => {
         const { code, discount, expdate , offer } = coupon;
 
         try {
-            const response = await fetch('/createcoupon', {
+            const response = await fetch('https://freshfood-backend.onrender.com/createcoupon', {
                 method: 'POST',
                 headers: {
                     "Content-Type": "application/json"

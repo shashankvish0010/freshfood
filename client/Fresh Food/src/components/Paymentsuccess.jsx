@@ -10,7 +10,7 @@ const Paymentsuccess = () => {
   
   const giveOrder = async () =>{
     try {
-      const response = await fetch('/sendorder', {
+      const response = await fetch('https://freshfood-backend.onrender.com/sendorder', {
         method : 'PUT',
         headers : {
           'Content-Type' : 'application/json'

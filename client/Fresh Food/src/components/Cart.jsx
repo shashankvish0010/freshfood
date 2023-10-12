@@ -17,7 +17,7 @@ const Cart = () => {
   const sendOrder = async () => {
     try {
       const OrderArr = state;
-      const response = await fetch('/saveorder', 
+      const response = await fetch('https://freshfood-backend.onrender.com/saveorder', 
       { method: 'PUT',
        headers: { "Content-Type": "application/json" },
        body : JSON.stringify(OrderArr)
@@ -76,7 +76,7 @@ const Cart = () => {
 
       if (matchedCoupon) {
         // const usedcoupon = {code : matchedCoupon.code, offer : matchedCoupon.offer};
-        const res = await fetch('/updatecoupon', {
+        const res = await fetch('https://freshfood-backend.onrender.com/updatecoupon', {
           method : 'POST',
           headers : {
             "Content-Type" : "application/json"
@@ -107,7 +107,7 @@ const Cart = () => {
       sendOrder();
       try {
         console.log(amount);
-        const data = await fetch('/checkout', {
+        const data = await fetch('https://freshfood-backend.onrender.com/checkout', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',

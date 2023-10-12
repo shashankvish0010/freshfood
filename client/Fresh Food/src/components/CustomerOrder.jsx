@@ -7,7 +7,7 @@ const CustomerOrder = () => {
     const [orderList, setorderList] = useState([]);
     const getOrder = async () =>{
        try {
-        const response = await fetch('/getorders', {
+        const response = await fetch('https://freshfood-backend.onrender.com/getorders', {
             method : "GET",
             headers : {
                 "Content-Type" : "appliaction/json"

@@ -30,7 +30,7 @@ const Login = () => {
 
         const { email, password } = credentials;
         try {
-            const response = await fetch('/customerlogin', {
+            const response = await fetch('https://freshfood-backend.onrender.com/customerlogin', {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"

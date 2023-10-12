@@ -36,7 +36,7 @@ const Adminreg = () => {
         confirmpassword } = admin;
        try {
 
-       const response = await fetch('/soft-admin', {
+       const response = await fetch('https://freshfood-backend.onrender.com/soft-admin', {
             method : "POST",
             headers : {
                 "Content-Type" : "application/json"

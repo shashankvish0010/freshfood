@@ -20,7 +20,7 @@ const Profile = () => {
     useEffect(() => {
         const getprofile = async () => {
   try {
-        const response = await fetch('/profiledata', {
+        const response = await fetch('https://freshfood-backend.onrender.com/profiledata', {
       method: 'GET',
       headers: {
         "Accept": "application/json",

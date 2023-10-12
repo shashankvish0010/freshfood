@@ -33,7 +33,7 @@ const Adminlogin = () => {
         const { email, password } = admin;
 
         try {
-            const response = await fetch('/softadmin-login', {
+            const response = await fetch('https://freshfood-backend.onrender.com/softadmin-login', {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json"

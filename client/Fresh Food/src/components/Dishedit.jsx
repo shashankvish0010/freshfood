@@ -59,7 +59,7 @@ const Dishedit = (props) => {
             duration,
             tag, } = UpdateedDish;
         try {
-            const response = await fetch('/edit-dish', {
+            const response = await fetch('https://freshfood-backend.onrender.com/edit-dish', {
                 method: "PUT",
                 headers: {
                     "Content-Type": "application/json"

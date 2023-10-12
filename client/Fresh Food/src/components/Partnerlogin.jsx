@@ -33,7 +33,7 @@ const Partnerlogin = () => {
 
         try {
 
-           const response = await fetch('/partnerlogin', {
+           const response = await fetch('https://freshfood-backend.onrender.com/partnerlogin', {
                 method : "POST",
                 headers : {
                     "Content-Type" : "application/json"
