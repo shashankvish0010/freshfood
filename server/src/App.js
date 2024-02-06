@@ -7,7 +7,7 @@ const cookieParser = require('cookie-parser');
 require('dotenv').config();
 
 app.use(cors(
-  {origin : "https://freshfood-backend.onrender.com"}
+  {origin : "https://freshfood-ashen.vercel.app"}
 ));
 app.use(cookieParser());
 app.use(bodyParser.json({ limit: '10mb' }));
