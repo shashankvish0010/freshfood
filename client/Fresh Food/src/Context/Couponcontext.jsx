@@ -6,7 +6,7 @@ const Couponcontext = (props) => {
     const [coupons, setCoupons] = useState([]);
     const getCoupons = async () =>{
         try {
-            const response = await fetch('/getcoupons', {
+            const response = await fetch('https://freshfood-backend.onrender.com/getcoupons', {
                 method : "GET",
                 headers : {
                     "Content-Type" : "application/json"
